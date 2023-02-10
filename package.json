@@ -1,0 +1,26 @@
+{
+  "name": "server-rest-api",
+  "version": "1.0.0",
+  "description": "Automatized api tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsluizvictor/server-rest-api.git"
+  },
+  "keywords": [
+    "test",
+    "cypres"
+  ],
+  "author": "luiz victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsluizvictor/server-rest-api/issues"
+  },
+  "homepage": "https://github.com/fsluizvictor/server-rest-api#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
