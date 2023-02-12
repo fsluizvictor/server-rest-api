@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/fsluizvictor/server-rest-api#readme",
   "devDependencies": {
-    "cypress": "^12.5.1"
+    "cypress": "^12.5.1",
+    "unique-names-generator": "^4.7.1"
   }
 }
